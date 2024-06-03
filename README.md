@@ -1,1 +1,1 @@
-# El proyecto está en la main branch
+# El proyecto está en la master branch
